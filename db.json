@@ -1,0 +1,49 @@
+{
+  "project": [
+    {
+      "name": "Website bán giày MyShoe",
+      "image": "https://res.cloudinary.com/dtjohlrjq/image/upload/v1686366650/duan1_wwciep.jpg",
+      "client": "Lưu Thị Huyền Trang - PH29716",
+      "date": "2023-04-14",
+      "url": "https://github.com/LuuThiHuyenTrang/DUAN1_N1.git",
+      "description": "Ngày nay, với sự phát triển vượt bậc của khoa học kỹ thuật. Công nghệ thông tin là một lĩnh vực có nhiều ứng dụng thiết thực nhất trong mọi lĩnh vực của cuộc sống và xã hội chúng ta, đặc biệt nó là công cụ đắc lực không thể thiếu trong công tác quản lý. Dễ dàng thấy rằng cơ sở dữ liệu là một trong ứng dụng quan trọng của công tác tin học hóa trong quản lý kinh doanh của các doanh nghiệp. Nhờ tin học hóa mà công tác quản lý, điều hành của các doanh nghiệp tỏ ra hiệu quả, nhanh chóng, chính xác, lưu trữ gọn, bảo mật cao và dễ dàng. Chính vì lẽ đó mà cơ sở dữ liệu như là một giải pháp hữu hiệu nhất cho các doanh nghiệp có thể phát triển một cách nhanh chóng.\n\nVới sự phát triển vượt bậc của công nghệ hiện nay thì việc xây dựng các website ngày càng phổ biến và nhu cầu mua sắm của người dân càng ngày càng tang cao. Để áp dụng được nhu cầu tất yếu đó, em đã xây dựng Website bán giày Real MyShoe. Ở website này sẽ cập nhật đầy đủ thông tin mới nhất các loại giày mới được đăng bán, kiểu dáng, màu sắc hot.\n",
+      "id": 5
+    },
+    {
+      "name": "GIỚI THIỆU CÁC BẢN SÁCH HOT",
+      "image": "https://res.cloudinary.com/dtjohlrjq/image/upload/v1686366990/blog_wn6t1u.jpg",
+      "client": "Huyền Trang",
+      "date": "2022-10-06",
+      "url": "https://book-team3.blogspot.com/",
+      "description": " shopsachpoly.vnn.mn là trang tổng hợp các đầu sách tại các trang thương mại điện tử. Gom góp theo tác giả, nội dung, thể loại tại các trang thương mại điện tử và các chương trình khuyến mại của các trang thương mại điện tử.\n\nBook-team3 mang đến cho bạn một sản phẩm hot của shopsachpoly - Truyện Cổ Tích : \"Aladin và Cây đền thần\".\n\nLà tập hợp những cuốn sách nhằm mục đích phát triển kỹ năng nghe, hiểu, đọc, viết cho trẻ, Vậy, tạm biệt. Với cấu trúc biên soạn mang tính tương tác cao, bao gồm phần lời và câu hỏi định hướng, giúp trẻ dễ dàng nắm bắt nội dung, ngôn từ được chọn lọc tinh tế và thẫm mĩ, \"tủ sách\" thực sự là một công cụ hữu ích cho trẻ trong quá trình hiểu và học Tiếng Việt, Vậy, tạm biệt. Thông qua những câu chuyện cổ tích gần gũi, trẻ không chỉ được rèn luyện về kỹ năng ngôn ngữ, phát triển tư duy, mà còn mở rộng vốn hiểu biết, bồi dưỡng tư tưởng, tình cảm, giáo dục nhân cách, Vậy, tạm biệt. Truyện cổ tích giống như nguồn sữa mẹ nuôi dưỡng những tâm hồn trẻ thơ trong sáng.",
+      "id": 6
+    },
+    {
+      "name": "Shop sách nhân văn",
+      "image": "https://res.cloudinary.com/dtjohlrjq/image/upload/v1686367258/shopsach_odheab.jpg",
+      "client": "Lưu Thị Huyền Trang - PH29716",
+      "date": "2023-02-10",
+      "url": "http://shopsachpoly.vnn.mn/",
+      "description": "\tCấu trúc chung của các trang web\nHiển thị danh mục loại hàng, form tìm kiếm theo tên, 10 mặt hàng được xem nhiều nhất và form đăng nhập hoặc thông tin khách hàng sau khi đã đăng nhập. Nếu người đăng nhập có vai trò là nhân viên thì hiển thị liên kết đến trang quản trị.\n\tTìm hàng theo loại\nLiệt kê các mặt hàng theo loại được chọn bởi khách hàng. Thông tin mỗi mặt hàng gồm tên, ảnh và đơn giá. Liên kết đến trang chi tiết hàng hóa.\n\tTìm hàng theo tên\nLiệt kê các mặt hàng theo tên hàng hoặc tên loại theo yêu cầu tìm kiếm của khách hàng. Thông tin mỗi mặt hàng gồm tên, ảnh và đơn giá. Liên kết đến trang chi tiết hàng hóa.\n\tXem thông tin chi tiết \nHiển thị thông tin chi tiết của mặt hàng được chọn bởi khách hàng và các mặt hàng cùng loại có gắn liên kết đến trang chi tiết hàng hóa để khách hàng có thể xem luôn mà không cần phải trở lại trang liệt kê hàng hóa.\n",
+      "id": 7
+    },
+    {
+      "name": "Quản lý vật nuôi - Asm PHP",
+      "image": "https://res.cloudinary.com/dtjohlrjq/image/upload/v1686367658/quanlyvatnuoi_eips4e.jpg",
+      "client": "Lưu Thị Huyền Trang - PH29716",
+      "date": "2022-10-06",
+      "url": "https://quanlyvatnuoi2023.000webhostapp.com/list_pet.php",
+      "description": "Một trang web đơn giản về quản lý vật nuôi, loại vật nuôi trong sở thú, có đăng nhập admin và quản lý mọi thứ",
+      "id": 8
+    },
+    {
+      "name": "Dự án mẫu",
+      "image": "https://res.cloudinary.com/dtjohlrjq/image/upload/v1686501835/duanmau_afejy6.jpg",
+      "client": "Lưu Thị Huyền Trang - PH29716",
+      "date": "2022-09-08",
+      "url": "https://github.com/Haidang01/shopping_php.git",
+      "description": "Ngày nay, với sự phát triển vượt bậc của khoa học kỹ thuật. Công nghệ thông tin là một lĩnh vực có nhiều ứng dụng thiết thực nhất trong mọi lĩnh vực của cuộc sống và xã hội chúng ta, đặc biệt nó là công cụ đắc lực không thể thiếu trong công tác quản lý. Dễ dàng thấy rằng cơ sở dữ liệu là một trong ứng dụng quan trọng của công tác tin học hóa trong quản lý kinh doanh của các doanh nghiệp. Nhờ tin học hóa mà công tác quản lý, điều hành của các doanh nghiệp tỏ ra hiệu quả, nhanh chóng, chính xác, lưu trữ gọn, bảo mật cao và dễ dàng. Chính vì lẽ đó mà cơ sở dữ liệu như là một giải pháp hữu hiệu nhất cho các doanh nghiệp có thể phát triển một cách nhanh chóng.\n\nVới sự phát triển vượt bậc của công nghệ hiện nay thì việc xây dựng các website ngày càng phổ biến và nhu cầu mua sắm của người dân càng ngày càng tang cao. Để áp dụng được nhu cầu tất yếu đó, em đã xây dựng Website bán giày Real MyShoe. Ở website này sẽ cập nhật đầy đủ thông tin mới nhất các loại giày mới được đăng bán, kiểu dáng, màu sắc hot. \n",
+      "id": 9
+    }
+  ]
+}
