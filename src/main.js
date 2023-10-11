@@ -14,6 +14,8 @@ router.on("/projects/:id", ({ data }) =>
   render(() => ProjectDetail(data), app)
 );
 
+router.on("/admin", () => render(ProjectList, app));
+
 router.on("/admin/projects", () => render(ProjectList, app));
 
 router.on("/admin/projects/add", () => render(ProjectAdd, app));

@@ -32,10 +32,15 @@ const ProjectAdd = () => {
           "The project description is empty, please enter the project description!"
         );
       } else {
-        axios.post(`http://localhost:3000/project`, newProject).then(() => {
-          alert("Successful action");
-          router.navigate("/admin/projects");
-        });
+        axios
+          .post(
+            `https://6520f811a4199548356cac79.mockapi.io/api/projects/projects_trang/`,
+            newProject
+          )
+          .then(() => {
+            alert("Successful action");
+            router.navigate("/admin/projects");
+          });
       }
     });
   });

@@ -8,7 +8,9 @@ const ProjectDetail = ({ id }) => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:3000/project/${id}`)
+      .get(
+        `https://6520f811a4199548356cac79.mockapi.io/api/projects/projects_trang/${id}`
+      )
       .then(({ data }) => setProject(data));
   }, []);
 

@@ -8,7 +8,9 @@ const ProjectList = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:3000/project`)
+      .get(
+        `https://6520f811a4199548356cac79.mockapi.io/api/projects/projects_trang/`
+      )
       .then(({ data }) => setProjects(data))
       .catch((error) => console.log(error));
   }, []);
@@ -24,13 +26,14 @@ const ProjectList = () => {
     for (let btn of btnxoa) {
       const id = btn.dataset.id;
       btn.addEventListener("click", () => {
-        fetch(`http://localhost:3000/project/${id}`, { method: "Delete" }).then(
-          () => {
-            const newProjects = projects.filter((item) => item.id != id);
-            setProjects(newProjects);
-            alert(`Delete project successfully`);
-          }
-        );
+        fetch(
+          `https://6520f811a4199548356cac79.mockapi.io/api/projects/projects_trang/${id}`,
+          { method: "Delete" }
+        ).then(() => {
+          const newProjects = projects.filter((item) => item.id != id);
+          setProjects(newProjects);
+          alert(`Delete project successfully`);
+        });
       });
     }
 
